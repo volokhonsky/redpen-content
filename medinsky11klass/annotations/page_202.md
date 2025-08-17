@@ -6,6 +6,7 @@ target: [650,750]
 ![afghanistan cartoon](images/202-afghanistan.jpeg)
 Bill Mauldin, Chicago Sunday Times, 1983
 
+TODO: добавить картинку
 
 ~~~meta
 type: main

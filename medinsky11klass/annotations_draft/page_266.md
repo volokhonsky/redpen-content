@@ -2,7 +2,7 @@
 type: main
 id: ann-p266-1
 target: [300, 430]
-tags: [tc-anonymous-superlative]
+tags: [tc-anonymous-superlative, tc-modern-authority]
 confidence: high
 note: цитата Путина 2005 г. и её парафраз в "Подведём итоги" сверены по ria.ru
 ~~~

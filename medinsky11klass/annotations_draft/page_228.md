@@ -2,7 +2,7 @@
 type: main
 id: ann-p228-1
 target: [300, 470]
-tags: [tc-usa-origin, omission]
+tags: [tc-usa-origin, tc-info-sovereignty-anachronism, omission]
 confidence: high
 ~~~
 
@@ -12,7 +12,7 @@ confidence: high
 type: main
 id: ann-p228-2
 target: [300, 500]
-tags: [framing, tc-passive-voice]
+tags: [framing, tc-passive-voice, tc-info-sovereignty-anachronism]
 confidence: high
 ~~~
 

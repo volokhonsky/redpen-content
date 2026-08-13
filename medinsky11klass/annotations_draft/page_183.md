@@ -12,7 +12,7 @@ confidence: high
 type: main
 id: ann-p183-2
 target: [500, 610]
-tags: [anachronism, framing, contradiction]
+tags: [anachronism, framing, contradiction, tc-modern-authority]
 confidence: high
 note: цитата Путина (высказывание 2013 г.) подлинная, подтверждена веб-поиском; URL в теле не привожу — цитата напечатана в самом учебнике, замечание о внутреннем противоречии.
 ~~~

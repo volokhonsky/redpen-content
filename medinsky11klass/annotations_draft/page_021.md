@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p021-2
-target: [640, 615]
+target: [640, 515]
 tags: [framing]
 confidence: high
 ~~~

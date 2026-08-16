@@ -1,6 +1,6 @@
 ~~~meta
 type: main
-id: ann-p005-1
+id: ann-i005-1
 target: [645, 790]
 tags: [framing, tc-modern-authority]
 confidence: high
@@ -10,7 +10,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p005-2
+id: ann-i005-2
 target: [165, 910]
 tags: [contested-as-settled, tc-modern-authority]
 confidence: high
@@ -21,7 +21,7 @@ confidence: high
 
 ~~~meta
 type: comment
-id: ann-p005-3
+id: ann-i005-3
 target: [340, 680]
 tags: [source-selection]
 ~~~

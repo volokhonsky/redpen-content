@@ -1,6 +1,6 @@
 ~~~meta
 type: main
-id: ann-p006-1
+id: ann-i006-1
 target: [210, 255]
 tags: [loaded-question, omission, tc-famine-1946]
 confidence: high
@@ -11,7 +11,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p006-2
+id: ann-i006-2
 target: [155, 650]
 tags: [omission]
 confidence: medium
@@ -23,7 +23,7 @@ note: цифры о работниках СТЗ относятся к 1943 г. �
 
 ~~~meta
 type: comment
-id: ann-p006-3
+id: ann-i006-3
 target: [175, 935]
 tags: [framing]
 ~~~
@@ -32,7 +32,7 @@ tags: [framing]
 
 ~~~meta
 type: comment
-id: ann-p006-4
+id: ann-i006-4
 target: [600, 655]
 tags: [source-selection]
 ~~~

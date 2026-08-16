@@ -1,6 +1,6 @@
 ~~~meta
 type: main
-id: ann-p003-1
+id: ann-i003-1
 target: [155, 249]
 tags: [omission, tc-famine-1946]
 confidence: high
@@ -11,7 +11,7 @@ confidence: high
 
 ~~~meta
 type: comment
-id: ann-p003-2
+id: ann-i003-2
 target: [155, 357]
 tags: [omission]
 ~~~
@@ -20,7 +20,7 @@ tags: [omission]
 
 ~~~meta
 type: main
-id: ann-p003-3
+id: ann-i003-3
 target: [155, 627]
 tags: [false-cause, tc-usa-origin]
 confidence: high
@@ -30,7 +30,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p003-4
+id: ann-i003-4
 target: [155, 789]
 tags: [framing, tc-democratization-as-collapse]
 confidence: high
@@ -40,7 +40,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p003-5
+id: ann-i003-5
 target: [155, 951]
 tags: [framing, tc-nineties-as-foil]
 confidence: high

@@ -1,6 +1,6 @@
 ~~~meta
 type: main
-id: ann-p004-1
+id: ann-i004-1
 target: [372, 195]
 tags: [fact-error]
 confidence: high
@@ -11,7 +11,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p004-2
+id: ann-i004-2
 target: [155, 276]
 tags: [framing, false-cause]
 confidence: high
@@ -21,7 +21,7 @@ confidence: high
 
 ~~~meta
 type: main
-id: ann-p004-3
+id: ann-i004-3
 target: [155, 357]
 tags: [tc-annexation-euphemism, contested-as-settled]
 confidence: high
@@ -31,7 +31,7 @@ confidence: high
 
 ~~~meta
 type: comment
-id: ann-p004-4
+id: ann-i004-4
 target: [155, 492]
 tags: [framing]
 ~~~

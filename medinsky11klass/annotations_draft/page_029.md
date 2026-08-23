@@ -1,6 +1,7 @@
 ~~~meta
-type: general
+type: main
 id: ann-p029-1
+target: [450, 275]
 tags: [false-cause, false-symmetry, tc-usa-origin, tc-whatabout]
 confidence: high
 ~~~

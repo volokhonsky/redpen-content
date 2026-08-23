@@ -1,6 +1,7 @@
 ~~~meta
-type: general
+type: main
 id: ann-p304-1
+target: [400, 160]
 tags: [omission]
 confidence: high
 ~~~

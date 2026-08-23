@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p297-1
-target: [500, 700]
+target: [800, 639]
 tags: [omission]
 confidence: high
 note: проценты сверены по Википедии
@@ -13,7 +13,7 @@ note: проценты сверены по Википедии
 ~~~meta
 type: main
 id: ann-p297-2
-target: [400, 480]
+target: [165, 448]
 tags: [omission, contradiction]
 confidence: high
 note: даты отставки и приостановки полномочий сверены по Википедии
@@ -25,7 +25,7 @@ note: даты отставки и приостановки полномочий
 ~~~meta
 type: comment
 id: ann-p297-3
-target: [500, 800]
+target: [410, 803]
 tags: [framing]
 confidence: medium
 ~~~
@@ -35,7 +35,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p297-4
-target: [650, 760]
+target: [458, 718]
 tags: [context]
 confidence: medium
 ~~~
@@ -45,7 +45,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p297-5
-target: [400, 860]
+target: [175, 826]
 tags: [framing]
 confidence: medium
 ~~~

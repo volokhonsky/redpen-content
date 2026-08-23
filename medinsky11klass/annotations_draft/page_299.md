@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p299-1
-target: [400, 1000]
+target: [537, 940]
 tags: [omission]
 confidence: high
 note: цитата Чубайса сверена по Википедии
@@ -13,7 +13,7 @@ note: цитата Чубайса сверена по Википедии
 ~~~meta
 type: comment
 id: ann-p299-2
-target: [300, 700]
+target: [148, 676]
 tags: [context]
 confidence: high
 ~~~
@@ -23,7 +23,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p299-3
-target: [400, 180]
+target: [107, 130]
 tags: [false-symmetry, framing]
 confidence: medium
 ~~~
@@ -33,7 +33,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p299-4
-target: [300, 440]
+target: [500, 404]
 tags: [euphemism, tc-passive-voice]
 confidence: medium
 ~~~
@@ -43,7 +43,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p299-5
-target: [350, 890]
+target: [436, 782]
 tags: [omission]
 confidence: medium
 ~~~

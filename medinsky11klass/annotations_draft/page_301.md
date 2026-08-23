@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p301-1
-target: [400, 170]
+target: [100, 113]
 tags: [framing, tc-nineties-as-foil]
 confidence: high
 ~~~
@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p301-2
-target: [400, 500]
+target: [213, 375]
 tags: [omission, tc-cheerful-summary]
 confidence: high
 ~~~
@@ -21,7 +21,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p301-3
-target: [500, 850]
+target: [156, 803]
 tags: [omission, tc-task-without-material]
 confidence: high
 note: даты и суть переговоров сверены по материалу kprf.ru
@@ -33,7 +33,7 @@ note: даты и суть переговоров сверены по матер
 ~~~meta
 type: comment
 id: ann-p301-4
-target: [500, 900]
+target: [140, 870]
 tags: [omission, tc-task-without-material]
 confidence: medium
 ~~~

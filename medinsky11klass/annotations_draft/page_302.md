@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p302-1
-target: [400, 650]
+target: [144, 459]
 tags: [source-selection, tc-single-source-conflict]
 confidence: high
 ~~~
@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: comment
 id: ann-p302-2
-target: [400, 270]
+target: [181, 271]
 tags: [omission]
 confidence: medium
 ~~~
@@ -21,7 +21,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p302-3
-target: [400, 1060]
+target: [201, 983]
 tags: [context]
 confidence: low
 ~~~
@@ -31,7 +31,7 @@ confidence: low
 ~~~meta
 type: main
 id: ann-p302-4
-target: [500, 850]
+target: [441, 836]
 tags: [omission]
 confidence: high
 ~~~

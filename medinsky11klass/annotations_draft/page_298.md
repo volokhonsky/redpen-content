@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p298-1
-target: [500, 350]
+target: [340, 334]
 tags: [fact-error, omission]
 confidence: high
 note: даты указов и решение КС от 30.11.1992 сверены по Википедии
@@ -13,7 +13,7 @@ note: даты указов и решение КС от 30.11.1992 сверен�
 ~~~meta
 type: comment
 id: ann-p298-2
-target: [500, 650]
+target: [615, 598]
 tags: [dubious-number]
 confidence: medium
 ~~~
@@ -23,7 +23,7 @@ confidence: medium
 ~~~meta
 type: main
 id: ann-p298-3
-target: [500, 840]
+target: [186, 830]
 tags: [omission]
 confidence: high
 note: результаты выборов 1995 сверены по Википедии
@@ -35,7 +35,7 @@ note: результаты выборов 1995 сверены по Википе�
 ~~~meta
 type: comment
 id: ann-p298-4
-target: [500, 950]
+target: [372, 939]
 tags: [context]
 confidence: medium
 ~~~

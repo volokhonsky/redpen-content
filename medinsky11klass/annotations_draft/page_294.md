@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p294-1
-target: [430, 320]
+target: [396, 296]
 tags: [euphemism, framing]
 confidence: high
 ~~~
@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p294-2
-target: [500, 560]
+target: [437, 558]
 tags: [omission]
 confidence: high
 note: даты и формулировка сверены по русской Википедии
@@ -23,7 +23,7 @@ note: даты и формулировка сверены по русской В
 ~~~meta
 type: comment
 id: ann-p294-3
-target: [500, 420]
+target: [532, 401]
 tags: [context]
 confidence: medium
 ~~~
@@ -34,7 +34,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p294-4
-target: [200, 300]
+target: [270, 160]
 tags: [context]
 confidence: medium
 ~~~

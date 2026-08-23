@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p296-1
-target: [600, 380]
+target: [645, 298]
 tags: [omission, dubious-number]
 confidence: high
 note: цифры и дата амнистии сверены по Википедии
@@ -13,7 +13,7 @@ note: цифры и дата амнистии сверены по Википед
 ~~~meta
 type: main
 id: ann-p296-2
-target: [500, 900]
+target: [130, 883]
 tags: [dubious-number, omission]
 confidence: high
 note: явка и доля "за" сверены по Википедии
@@ -25,7 +25,7 @@ note: явка и доля "за" сверены по Википедии
 ~~~meta
 type: comment
 id: ann-p296-3
-target: [500, 850]
+target: [665, 781]
 tags: [context]
 confidence: high
 ~~~
@@ -35,7 +35,7 @@ confidence: high
 ~~~meta
 type: comment
 id: ann-p296-4
-target: [550, 715]
+target: [732, 671]
 tags: [loaded-question]
 confidence: medium
 ~~~
@@ -45,7 +45,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p296-5
-target: [650, 470]
+target: [535, 424]
 tags: [euphemism]
 confidence: medium
 ~~~

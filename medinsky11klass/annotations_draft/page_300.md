@@ -1,7 +1,7 @@
 ~~~meta
 type: main
 id: ann-p300-1
-target: [500, 500]
+target: [130, 499]
 tags: [dubious-number, tc-nineties-as-foil]
 confidence: high
 note: масштаб СРП и хронология реформы сверены по Википедии
@@ -13,7 +13,7 @@ note: масштаб СРП и хронология реформы сверен�
 ~~~meta
 type: main
 id: ann-p300-2
-target: [500, 850]
+target: [471, 837]
 tags: [omission]
 confidence: high
 note: даты инфарктов сверены по Википедии
@@ -25,7 +25,7 @@ note: даты инфарктов сверены по Википедии
 ~~~meta
 type: main
 id: ann-p300-3
-target: [500, 300]
+target: [491, 138]
 tags: [framing, tc-nineties-as-foil]
 confidence: high
 ~~~
@@ -35,7 +35,7 @@ confidence: high
 ~~~meta
 type: main
 id: ann-p300-4
-target: [500, 980]
+target: [266, 964]
 tags: [omission]
 confidence: high
 note: число жертв сверено по Википедии
@@ -47,7 +47,7 @@ note: число жертв сверено по Википедии
 ~~~meta
 type: comment
 id: ann-p300-5
-target: [500, 685]
+target: [484, 656]
 tags: [euphemism, tc-passive-voice]
 confidence: medium
 ~~~

@@ -1,7 +1,7 @@
 ~~~meta
 type: comment
 id: ann-p295-1
-target: [400, 420]
+target: [240, 421]
 tags: [context]
 confidence: high
 ~~~
@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: comment
 id: ann-p295-2
-target: [400, 650]
+target: [435, 632]
 tags: [framing, tc-single-source-conflict]
 confidence: high
 ~~~
@@ -21,7 +21,7 @@ confidence: high
 ~~~meta
 type: comment
 id: ann-p295-3
-target: [300, 300]
+target: [670, 300]
 tags: [source-selection]
 confidence: medium
 ~~~
@@ -31,7 +31,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p295-4
-target: [700, 1030]
+target: [130, 1051]
 tags: [context]
 confidence: medium
 ~~~

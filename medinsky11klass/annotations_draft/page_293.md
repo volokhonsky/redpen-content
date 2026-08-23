@@ -1,7 +1,7 @@
 ~~~meta
 type: comment
 id: ann-p293-1
-target: [270, 950]
+target: [117, 871]
 tags: [omission, tc-cheerful-summary]
 confidence: high
 ~~~
@@ -11,7 +11,7 @@ confidence: high
 ~~~meta
 type: comment
 id: ann-p293-2
-target: [700, 650]
+target: [810, 520]
 tags: [context]
 confidence: medium
 ~~~
@@ -21,7 +21,7 @@ confidence: medium
 ~~~meta
 type: comment
 id: ann-p293-3
-target: [700, 890]
+target: [583, 841]
 tags: [context]
 confidence: medium
 ~~~

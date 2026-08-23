@@ -15,7 +15,17 @@
     { "id": "pageA1", "name": "Обложка", "physicalPage": 1 }
   ],
 
-  "pageNumbering": { "physicalStart": 1, "logicalStart": 1 },
+  "pageNumbering": {
+    "physicalStart": 1,
+    "logicalStart": 1,
+    "frontMatter": [
+      { "file": "000", "name": "Обложка" },
+      { "file": "001", "name": "Титульный лист" },
+      { "file": "002", "name": "Выходные данные" }
+    ],
+    "printedStartFile": "003",
+    "printedStartNumber": 3
+  },
   "totalPages": 448,
 
   "chapters": [

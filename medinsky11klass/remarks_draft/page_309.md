@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p309-1
 target: [300, 205]
 tags: [context]
@@ -10,7 +10,7 @@ confidence: high
 [Демографический кризис в Российской Федерации // Википедия](https://ru.wikipedia.org/wiki/Демографический_кризис_в_Российской_Федерации)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p309-2
 target: [550, 295]
 tags: [omission, tc-nineties-as-foil]
@@ -21,7 +21,7 @@ confidence: medium
 [Демографический кризис в Российской Федерации // Википедия](https://ru.wikipedia.org/wiki/Демографический_кризис_в_Российской_Федерации)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p309-3
 target: [200, 335]
 tags: [dubious-number]
@@ -33,7 +33,7 @@ note: диапазон и годовые цифры — по таблице Ро
 [Численность населения России за чертой бедности // Русский эксперт](https://ruxpert.ru/Статистика:Численность_населения_России_за_чертой_бедности)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p309-4
 target: [650, 395]
 tags: [framing]
@@ -43,7 +43,7 @@ confidence: medium
 «Новые русские» здесь определены целиком через криминал: «слой собственников... из среды криминалитета и коррумпированного чиновничества». Ни слова о легальном предпринимательстве, тоже возникшем в эти же годы, — формирующийся класс собственников сведён к одному источнику происхождения.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p309-5
 target: [150, 1075]
 tags: [dubious-number, tc-official-stats]

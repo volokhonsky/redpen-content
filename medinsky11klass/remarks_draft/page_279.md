@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p279-1
 target: [650, 1075]
 tags: [omission, tc-flattering-portrait]
@@ -11,7 +11,7 @@ note: указ 1763 подтверждён по aif.ru с прямой цита�
 [Операция «Ельцин». Как врачи спасали первого президента РФ // АиФ](https://aif.ru/health/healthy_nation/operaciya_elcin_kak_vrachi_spasali_pervogo_prezidenta_rf)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p279-2
 target: [800, 1120]
 tags: [omission, tc-flattering-portrait]
@@ -22,7 +22,7 @@ confidence: high
 [Какой был первый указ Путина на посту и. о. президента РФ? // АиФ](https://aif.ru/dontknows/file/1475256)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p279-3
 target: [300, 590]
 tags: [context]
@@ -31,7 +31,7 @@ tags: [context]
 «Не имевших реального опыта работы в сфере экономики» — редкая для учебника прямая критика команды реформаторов. Стоит уточнить, о ком речь: это молодые экономисты из Института экономической политики под руководством Гайдара, часть которых консультировалась у западных советников, включая гарвардского профессора Дж. Сакса, — тема, к которой параграф ещё вернётся на стр. 289 в связи с причинами дефолта 1998 г.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p279-4
 target: [400, 185]
 tags: [framing, tc-nineties-as-foil]

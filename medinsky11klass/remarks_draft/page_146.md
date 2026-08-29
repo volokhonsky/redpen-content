@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p146-1
 target: [430, 255]
 tags: [omission, source-selection]
@@ -11,7 +11,7 @@ note: grep по корпусу: «деревенская проза» и име�
 [Ликвидация «неперспективных деревень» // Википедия](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%BD%D0%B5%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C%C2%BB)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p146-2
 target: [430, 350]
 tags: [tc-passive-voice, omission]
@@ -22,7 +22,7 @@ confidence: high
 [Ликвидация «неперспективных деревень» // Википедия](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%BD%D0%B5%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C%C2%BB)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p146-3
 target: [430, 645]
 tags: [omission, tc-task-without-material]
@@ -34,7 +34,7 @@ note: grep по всему корпусу: фамилия «Либерман» �
 [Кирсанов Р. Реформа Косыгина — Либермана: как совместить план, прибыль и премию // Перспективы, 16.06.2023](https://www.perspektivy.info/history/reforma_kosygina-libermana_kak_sovmestit_plan_pribyl_i_premiju_2023-06-16.htm)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p146-4
 target: [720, 905]
 tags: [euphemism, tc-passive-voice]
@@ -44,7 +44,7 @@ confidence: high
 «Организационными „драйверами“ реформы призваны были стать восстановленные отраслевые министерства. При этом подразумевалось, что они будут не прежними „диктаторами“, а консультантами предприятий». Подразумевалось кем? Восстановленные — вместо чего? Ответ есть в этом же учебнике, десятью страницами раньше: в 1965 г. упразднили совнархозы (с. 136). А что министерства так и не стали «консультантами» и что именно их сопротивление хозрасчёту историки называют одной из причин провала реформы, — этого во врезке нет. Ведомство, которому поручено себя ограничить, обычно ограничивает не себя.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p146-5
 target: [430, 1105]
 tags: [tc-task-without-material]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p014-1
 target: [500, 900]
 tags: [euphemism, omission, framing]
@@ -11,7 +11,7 @@ note: ~640 тыс. японских военнопленных, ~62 тыс. ум
 [Японские военнопленные в Советском Союзе // Википедия](https://ru.wikipedia.org/wiki/Японские_военнопленные_в_Советском_Союзе)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p014-2
 target: [650, 430]
 tags: [overclaim]
@@ -23,7 +23,7 @@ note: цена «Победы» 16 000 руб., очередь 58 500 чел. к
 [Как устанавливали цену на автомобиль ГАЗ-М20 «Победа» // Коммерсантъ](https://www.kommersant.ru/doc/3725809)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p014-3
 target: [400, 770]
 tags: [euphemism, omission]
@@ -35,7 +35,7 @@ note: паспортные ограничения для колхозников 
 [Паспорт гражданина СССР // Википедия](https://ru.wikipedia.org/wiki/Паспорт_гражданина_СССР)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p014-4
 target: [400, 1015]
 tags: [omission, euphemism]
@@ -47,7 +47,7 @@ note: Главгидрострой МВД, ~100 тыс. военнопленны
 [Волго-Донской канал // Википедия](https://ru.wikipedia.org/wiki/Волго-Донской_канал)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p014-t1
 target: [640, 872]
 tags: [tc-key-concept-unexplained, omission]

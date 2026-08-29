@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p009-1
 target: [135, 930]
 tags: [omission]
@@ -11,7 +11,7 @@ note: grep по всему корпусу — "Извольск", "диплом�
 [Вишняков Я. В. Боснийский кризис 1908—1909 гг. и славянский вопрос // Вестник МГИМО Университета. 2011](https://cyberleninka.ru/article/n/bosniyskiy-krizis-1908-1909-gg-i-slavyanskiy-vopros)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p009-2
 target: [135, 1000]
 tags: [context]
@@ -20,7 +20,7 @@ tags: [context]
 Итало-турецкая война 1911 года интересна не только как повод к спору Германии между союзниками: именно тогда авиация, радиосвязь и бронемашины впервые в истории были применены в бою — за три года до того, как они станут привычными приметами Первой мировой.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p009-3
 target: [135, 1047]
 tags: [fact-error, overclaim]

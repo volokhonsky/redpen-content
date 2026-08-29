@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p189-1
 target: [400, 550]
 tags: [euphemism, framing, omission]
@@ -12,7 +12,7 @@ confidence: high
 [Демонстрации в Грузии (1978) // Википедия](https://ru.wikipedia.org/wiki/Демонстрации_в_Грузии_%281978%29)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p189-2
 target: [400, 615]
 tags: [contested-as-settled, omission]
@@ -25,7 +25,7 @@ confidence: high
 [Серия терактов в Москве (1977) // Википедия](https://ru.wikipedia.org/wiki/Серия_терактов_в_Москве_%281977%29)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p189-3
 target: [400, 780]
 tags: [double-standard, framing]
@@ -35,7 +35,7 @@ confidence: high
 Сравните, каким тоном учебник описывает разные национализмы. Нерусские движения — это «сепаратистские настроения», «беспорядки», «теракты». А русское «великорусское» направление (И. Шафаревич, В. Солоухин, И. Глазунов) описано почти сочувственно: они «требовали большего уважения к русскому народу», считали, что «русская культура нуждается в особой защите». Один и тот же по сути национализм в одном случае — угроза, в другом — понятное чувство. Это двойной стандарт.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p189-4
 target: [400, 1120]
 tags: [false-cause, tc-usa-origin]

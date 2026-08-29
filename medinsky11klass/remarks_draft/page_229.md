@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p229-1
 target: [200, 30]
 tags: [omission, tc-thaw-no-ending]
@@ -12,7 +12,7 @@ verify: -
 [Покаяние (фильм) // Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D1%8F%D0%BD%D0%B8%D0%B5_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p229-2
 target: [550, 190]
 tags: [omission]
@@ -22,7 +22,7 @@ confidence: medium
 Пьесы М. Шатрова вывели на сцену «практически никогда не появлявшиеся в советском искусстве фигуры» — Л. Троцкого и Н. Бухарина. Ниже, в разделе о реабилитации, Бухарин действительно назван в числе восстановленных в партии. Троцкого в этом списке нет — и не будет: в отличие от Бухарина, он не был подсудимым московских процессов 1936—1938 гг. (заочная угроза суда — не приговор), и вопрос о его юридической реабилитации в России до сих пор не решён однозначно.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p229-3
 target: [250, 90]
 tags: [context]
@@ -33,7 +33,7 @@ tags: [context]
 [Соловецкий лагерь особого назначения // Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p229-4
 target: [300, 340]
 tags: [framing]

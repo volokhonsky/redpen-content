@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p254-1
 target: [300, 790]
 tags: [euphemism]
@@ -11,7 +11,7 @@ note: число погибших и средства разгона свере�
 [Тбилисские события 9 апреля 1989 года](https://ru.wikipedia.org/wiki/Тбилисские_события_(1989))
 
 ~~~meta
-type: main
+kind: major
 id: ann-p254-2
 target: [300, 890]
 tags: [dubious-number, framing]
@@ -23,7 +23,7 @@ note: цифры погибших даны вилкой по разным ист
 [Чёрный январь](https://ru.wikipedia.org/wiki/Чёрный_январь)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p254-3
 target: [300, 950]
 tags: [omission]
@@ -35,7 +35,7 @@ note: официальная цифра Сумгаита 32 (26 армян + 6 �
 [Сумгаитский погром](https://ru.wikipedia.org/wiki/Сумгаитский_погром)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p254-4
 target: [300, 700]
 tags: [framing]
@@ -44,7 +44,7 @@ tags: [framing]
 Формула «при отсутствии практических мер» вскользь признаёт бездействие Центра — но тут же растворяет его в общей «эскалации взаимной вражды», как будто у Москвы просто не нашлось инструментов, а не решимости.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p254-5
 target: [550, 990]
 tags: [framing]

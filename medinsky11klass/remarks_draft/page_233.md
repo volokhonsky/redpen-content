@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p233-1
 target: [300, 150]
 tags: [omission]
@@ -11,7 +11,7 @@ confidence: high
 [«Не могу поступаться принципами» // Википедия](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D1%8C%D1%81%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B0%D0%BC%D0%B8)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p233-2
 target: [300, 660]
 tags: [tc-antisemitism-hidden]
@@ -24,7 +24,7 @@ verify: -
 [Борьба с космополитизмом // Википедия](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D1%81_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p233-3
 target: [400, 850]
 tags: [tc-task-without-material]
@@ -34,7 +34,7 @@ confidence: medium
 «С какими положениями автора статьи вы можете согласиться, а с какими нет?» — вопрос предполагает, что оценивать текст можно по существу его аргументов. Но без сведений о том, что письмо было использовано консервативным крылом Политбюро как манифест против реформ, школьник оценивает не позицию в реальном политическом конфликте марта 1988 года, а абстрактный текст.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p233-4
 target: [300, 1100]
 tags: [context]

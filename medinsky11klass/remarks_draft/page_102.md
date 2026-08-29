@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p102-1
 target: [700, 268]
 tags: [context, contradiction]
@@ -9,7 +9,7 @@ confidence: high
 «Соревнование благословил папа римский» — деталь, попавшая в подпись как знак престижа Игр. Перечитайте её, держа в уме предыдущие две страницы этого же параграфа: именно в эти годы в СССР по секретному постановлению ЦК вдвое сокращали число монастырей, закрывали половину храмов и снимали духовенство с руководства приходами. Благословение римского понтифика — уместная подробность в подписи к марке; упоминание о том, что происходило в это время с церковью дома, — почему-то нет.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p102-2
 target: [300, 520]
 tags: [overclaim, dubious-number]
@@ -22,7 +22,7 @@ confidence: high
 [СССР на летних Олимпийских играх 1964 // Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%A1%D0%A1%D0%A0_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%85_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85_1964)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p102-3
 target: [790, 550]
 tags: [omission, context]
@@ -35,7 +35,7 @@ confidence: high
 [Летние Олимпийские игры 1956 // Википедия](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_1956)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p102-4
 target: [600, 990]
 tags: [omission, tc-victim-hero]

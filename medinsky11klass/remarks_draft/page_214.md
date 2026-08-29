@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p214-1
 target: [700, 900]
 tags: [overclaim, tc-record-not-result]
@@ -13,7 +13,7 @@ confidence: high
 [Boeing X-37 // Википедия](https://ru.wikipedia.org/wiki/Boeing_X-37)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p214-2
 target: [500, 1062]
 tags: [false-cause, tc-record-not-result, tc-crisis-without-mechanism]
@@ -27,7 +27,7 @@ confidence: high
 [Буран (космический корабль) // Википедия](https://ru.wikipedia.org/wiki/Буран_(космический_корабль))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p214-3
 target: [690, 390]
 tags: [tc-task-without-material, omission]
@@ -37,7 +37,7 @@ confidence: high
 «Каковы были последствия чернобыльской катастрофы?» Всё, что учебник сообщил в ответ: разрушен четвёртый энергоблок, выброшено «большое количество радиоактивных веществ», эвакуировано более 115 тыс. человек, потрачены огромные средства. О здоровье людей, о ликвидаторах, о выведенных из оборота землях, о том, как долго молчали власти, — ничего. Добросовестный ответ по учебнику окажется короче и спокойнее, чем позволяет тема.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p214-4
 target: [500, 600]
 tags: [omission, context]
@@ -49,7 +49,7 @@ confidence: high
 [Чебриков, Виктор Михайлович // Википедия](https://ru.wikipedia.org/wiki/Чебриков,_Виктор_Михайлович)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p214-5
 target: [500, 760]
 tags: [tc-despite-not-because, framing]
@@ -59,7 +59,7 @@ confidence: high
 «Несмотря на высокий кредит доверия населения, отличался непродуманностью и непоследовательностью». Знакомая грамматика, вывернутая наизнанку. Обычно учебник строит уступку в другую сторону: «несмотря на цензуру… подлинный расцвет» (§14). Здесь уступается хорошее, а выводом становится плохое. И в обоих случаях уступительная конструкция избавляет от объяснения: что именно было непродумано и в чём непоследовательность, страница не говорит.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p214-6
 target: [270, 305]
 tags: [source-selection, framing]

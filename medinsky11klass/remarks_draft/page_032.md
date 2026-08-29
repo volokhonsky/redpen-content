@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p032-1
 target: [680, 470]
 tags: [source-selection, anachronism, tc-modern-grudge]

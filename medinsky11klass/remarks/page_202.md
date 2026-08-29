@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-page203-1
 target: [650,750]
 ~~~
@@ -9,7 +9,7 @@ Bill Mauldin, Chicago Sunday Times, 1983
 
 
 ~~~meta
-type: main
+kind: major
 id: ann-page203-2
 target:[150,180]
 text:"Почему в начале 1980-ых гг. стало ясно, что СССР нуждается в реформах?"

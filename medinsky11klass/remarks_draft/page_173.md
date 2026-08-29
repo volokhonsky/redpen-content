@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p173-1
 target: [400, 168]
 tags: [dubious-number, tc-record-not-result]
@@ -15,7 +15,7 @@ confidence: high
 [Сборная СССР по хоккею с шайбой // Википедия](https://ru.wikipedia.org/wiki/Сборная_СССР_по_хоккею_с_шайбой)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p173-2
 target: [400, 285]
 tags: [omission, tc-one-sided-ledger]
@@ -31,7 +31,7 @@ confidence: high
 [Суперсерия СССР — Канада (1972) // Википедия](https://ru.wikipedia.org/wiki/Суперсерия_СССР_—_Канада_(1972))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p173-3
 target: [400, 375]
 tags: [omission, tc-victim-hero]
@@ -47,7 +47,7 @@ confidence: high
 [Харламов, Валерий Борисович // Википедия](https://ru.wikipedia.org/wiki/Харламов,_Валерий_Борисович)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p173-4
 target: [430, 632]
 tags: [omission, tc-victim-hero]
@@ -63,7 +63,7 @@ confidence: high
 [Белоусова, Людмила Евгеньевна // Википедия](https://ru.wikipedia.org/wiki/Белоусова,_Людмила_Евгеньевна)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p173-5
 target: [400, 963]
 tags: [overclaim, tc-foreign-praise, tc-anonymous-superlative]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p008-1
 target: [230, 202]
 tags: [euphemism, omission]
@@ -11,7 +11,7 @@ note: сравнение с §17 (печ. с. 189) — учебник сам н�
 [Англо-русское соглашение (1907) — Википедия](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(1907)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p008-2
 target: [460, 800]
 tags: [context]
@@ -20,7 +20,7 @@ tags: [context]
 История «Ильи Муромца» не заканчивается 1913 годом: его конструктор Игорь Сикорский после революции эмигрировал в США и стал создателем первого в мире серийного вертолёта — учебник вспомнит об этом в главе о культуре русской эмиграции. Здесь же он показан только как советский, точнее ещё имперский, рекордсмен.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p008-3
 target: [135, 495]
 tags: [omission]
@@ -31,7 +31,7 @@ confidence: medium
 [Сражение при Омдурмане — Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%9E%D0%BC%D0%B4%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D0%B5)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p008-4
 target: [340, 540]
 tags: [dubious-number]

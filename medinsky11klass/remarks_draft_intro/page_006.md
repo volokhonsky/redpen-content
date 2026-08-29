@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-i006-1
 target: [210, 255]
 tags: [loaded-question, omission, tc-famine-1946]
@@ -10,7 +10,7 @@ confidence: high
 [Голод в СССР (1946—1947) — Википедия](https://ru.wikipedia.org/wiki/Голод_в_СССР_(1946—1947))
 
 ~~~meta
-type: main
+kind: major
 id: ann-i006-2
 target: [155, 650]
 tags: [omission]
@@ -22,7 +22,7 @@ note: цифры о работниках СТЗ относятся к 1943 г. �
 [Восстановление Сталинграда в 1943—1945 гг.: проблема формирования и распределения трудовых ресурсов // КиберЛенинка](https://cyberleninka.ru/article/n/vosstanovlenie-stalingrada-v-1943-1945-gg-problema-formirovaniya-i-raspredeleniya-trudovyh-resursov)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-i006-3
 target: [175, 935]
 tags: [framing]
@@ -31,7 +31,7 @@ tags: [framing]
 Хроника «Россия» на этом развороте — сплошь экономика и техника: реформа министерств, пятилетка, денежная реформа, атомная бомба. Хроника «Мир» — сплошь политика: поражение Черчилля на выборах, провозглашение республики в Италии, конец британского владычества в Индии. У СССР в эти же три года не нашлось для параллельной колонки ни одного политического события — как будто внутри страны политики не происходило вовсе.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-i006-4
 target: [600, 655]
 tags: [source-selection]

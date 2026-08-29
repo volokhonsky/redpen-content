@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p256-1
 target: [300, 190]
 tags: [omission]
@@ -11,7 +11,7 @@ note: точная цитата и дата (6.08.1990, Казань) свере
 [Борис Ельцин: «Берите столько суверенитета, сколько сможете проглотить»](https://yeltsin.ru/news/boris-elcin-berite-stolko-suverineteta-skolko-smozhete-proglotit/)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p256-2
 target: [300, 680]
 tags: [framing, contested-as-settled]
@@ -23,7 +23,7 @@ note: текст принципов Хельсинкского акта свер
 [Хельсинкский заключительный акт](https://ru.wikipedia.org/wiki/Хельсинкский_заключительный_акт)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p256-3
 target: [550, 660]
 tags: [omission]
@@ -35,7 +35,7 @@ note: даты признания сверены по ria.ru
 [Признание независимости Эстонии, Латвии и Литвы (1991)](https://ria.ru/20160906/1476123275.html)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p256-4
 target: [550, 230]
 tags: [omission]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p117-1
 target: [450, 712]
 tags: [euphemism, tc-passive-voice, omission]
@@ -22,7 +22,7 @@ note: grep «стиляг» по всему корпусу — печатные 
 [Стиляги // Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D1%8F%D0%B3%D0%B8)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p117-2
 target: [420, 815]
 tags: [loaded-question, omission]
@@ -38,7 +38,7 @@ note: умолчание проверено grep’ом по всему корп
 её вёл. Задание отсылает школьника к знанию, которого учебник ему не дал.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p117-3
 target: [300, 960]
 tags: [source-selection, tc-agitprop-as-source]
@@ -55,7 +55,7 @@ note: подпись называет куплеты «песней стиляг
 с тем, как на соседних страницах даётся слово мастеру спорта по туризму.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p117-4
 target: [420, 182]
 tags: [anachronism, framing]
@@ -70,7 +70,7 @@ confidence: high
 Слово из чужой эпохи не объясняет явление, а сглаживает его.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p117-5
 target: [450, 582]
 tags: [omission, context]

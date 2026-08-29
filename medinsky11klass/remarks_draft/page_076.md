@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p076-1
 target: [300, 80]
 tags: [overclaim, omission]
@@ -11,7 +11,7 @@ note: массовая паспортизация колхозников — п�
 [Почему у крестьян в СССР не было паспортов до 1974 года // Русская семёрка](https://russian7.ru/post/pochemu-u-krestyan-v-sssr-ne-bylo-paspor/)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p076-2
 target: [400, 345]
 tags: [omission]
@@ -23,7 +23,7 @@ note: рязанское чудо / А. Н. Ларионов не упомяну
 [«Рязанское чудо»: как партийный начальник Хрущёва подставил // Радио Sputnik](https://radiosputnik.ru/20210819/khruschev-1746142413.html)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p076-3
 target: [300, 1010]
 tags: [source-selection, tc-agitprop-as-source]

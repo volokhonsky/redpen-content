@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p202-1
 target: [700, 470]
 tags: [framing, anachronism, tc-agitprop-as-source]

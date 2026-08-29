@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p118-1
 target: [400, 613]
 tags: [euphemism, omission, tc-passive-voice]
@@ -24,7 +24,7 @@ note: парная аннотация к ann-p114-2 (там — противор
 [Новочеркасский расстрел // Википедия](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%B5%D0%BB)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p118-2
 target: [700, 663]
 tags: [euphemism, tc-passive-voice]
@@ -40,7 +40,7 @@ confidence: high
 из 13 414 действовавших. Там подлежащее есть; здесь оно исчезло.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p118-3
 target: [600, 870]
 tags: [overclaim, dubious-number]
@@ -58,7 +58,7 @@ confidence: high
 фразу «общество восприняло», спрашивать, каким прибором это измерено.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p118-4
 target: [450, 322]
 tags: [framing, context]
@@ -78,7 +78,7 @@ confidence: high
 ООН? // Проверено.Медиа](https://provereno.media/blog/2020/10/12/hrushev-kuzkina-mat-oon/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p118-5
 target: [300, 715]
 tags: [omission, euphemism]
@@ -100,7 +100,7 @@ confidence: high
 университета. 2014](https://cyberleninka.ru/article/n/reforma-vooruzhennyh-sil-sssr-v-1953-1964-gg-problemy-sotsialnoy-adaptatsii-uvolnyaemyh-voennosluzhaschih)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p118-6
 target: [650, 1070]
 tags: [tc-agitprop-as-source, loaded-question]

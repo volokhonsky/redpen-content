@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p009-1
 target: [500, 700]
 tags: [euphemism, false-cause]
@@ -11,7 +11,7 @@ note: смертность депортированных чеченцев/ин�
 [Депортация чеченцев и ингушей // Википедия](https://ru.wikipedia.org/wiki/Депортация_чеченцев_и_ингушей)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p009-2
 target: [700, 515]
 tags: [framing, tc-anonymous-superlative]

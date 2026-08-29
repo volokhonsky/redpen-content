@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p008-1
 target: [560, 405]
 tags: [dubious-number]
@@ -11,7 +11,7 @@ note: 26,6 млн — оценка госкомиссии, обнародова�
 [Потери в Великой Отечественной войне // Википедия](https://ru.wikipedia.org/wiki/Потери_в_Великой_Отечественной_войне)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p008-2
 target: [400, 745]
 tags: [omission, tc-one-sided-ledger]
@@ -23,7 +23,7 @@ note: протокол умолчаний — grep по корпусу: «тро
 [Клад Приама // Википедия](https://ru.wikipedia.org/wiki/Клад_Приама)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p008-3
 target: [700, 1070]
 tags: [context, source-selection]
@@ -35,7 +35,7 @@ note: судьба песни (снята после исполнения 1949 �
 [«Враги сожгли родную хату» // Википедия](https://ru.wikipedia.org/wiki/Враги_сожгли_родную_хату)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p008-t1
 target: [620, 685]
 tags: [omission, context]

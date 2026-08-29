@@ -1,11 +1,11 @@
 ~~~meta
-type: main
+kind: major
 id: ann-page9-1
 target: [400,400]
 ~~~
 “трети своего национального достояния” - это утверждение как-то основано на данных? Непонятен источник этой оценки. 
 ~~~meta
-type: main
+kind: major
 id: ann-page9-2
 target: [500,620]
 ~~~

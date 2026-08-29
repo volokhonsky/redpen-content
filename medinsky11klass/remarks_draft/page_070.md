@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p070-1
 target: [400, 650]
 tags: [dubious-number, overclaim]

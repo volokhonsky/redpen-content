@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p096-1
 target: [640, 185]
 tags: [omission, context]
@@ -11,7 +11,7 @@ note: «Улитка» и «Гадкие лебеди» написаны в 1966
 [Гадкие лебеди (повесть) // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8_%28%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C%29)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p096-2
 target: [560, 380]
 tags: [framing]
@@ -21,7 +21,7 @@ confidence: high
 «Движимого в первую очередь общественными интересами» — формула из отчётного доклада, приложенная к литературному жанру. Заметьте, что учёный интересен учебнику не любопытством, не сомнением и не спором с начальством, а правильной мотивацией. Ровно за это — за «внутренний мир» и «нерешённые вопросы» — на предыдущей странице хвалили обновленческую прозу; здесь же внутренний мир снова сворачивается до общественной пользы.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p096-3
 target: [450, 612]
 tags: [euphemism, omission, tc-passive-voice]
@@ -34,7 +34,7 @@ confidence: high
 [Посещение Хрущёвым выставки авангардистов // Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A5%D1%80%D1%83%D1%89%D1%91%D0%B2%D1%8B%D0%BC_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_%D0%B0%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%D0%B8%D1%81%D1%82%D0%BE%D0%B2)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p096-4
 target: [450, 795]
 tags: [dubious-number, tc-official-stats]

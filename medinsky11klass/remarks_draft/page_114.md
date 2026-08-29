@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p114-1
 target: [500, 240]
 tags: [dubious-number, tc-official-stats, omission]
@@ -25,7 +25,7 @@ note: цифра 39,5 кг подтверждается независимой �
 материалы](https://istmat.org/node/18419)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p114-2
 target: [450, 613]
 tags: [contradiction, omission, tc-passive-voice]
@@ -48,7 +48,7 @@ note: Новочеркасск учебник упоминает на печат
 [Новочеркасский расстрел // Википедия](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%B5%D0%BB)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p114-3
 target: [500, 508]
 tags: [context, passive-voice]
@@ -65,7 +65,7 @@ confidence: high
 которой учебник не выстраивает.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p114-4
 target: [450, 405]
 tags: [context, source-selection]
@@ -87,7 +87,7 @@ confidence: high
 № 2](https://cyberleninka.ru/article/n/kniga-o-vkusnoy-i-zdorovoy-pische-1952-g-v-sisteme-ideologicheskih-mifov-sssr)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p114-5
 target: [660, 945]
 tags: [omission, euphemism]
@@ -106,7 +106,7 @@ confidence: high
 [Денежная реформа в СССР 1961 года // Википедия](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0_%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0_1961_%D0%B3%D0%BE%D0%B4%D0%B0)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p114-6
 target: [450, 765]
 tags: [framing, loaded-question]

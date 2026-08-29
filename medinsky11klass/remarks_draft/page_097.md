@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p097-1
 target: [600, 158]
 tags: [anachronism, framing]
@@ -9,7 +9,7 @@ confidence: high
 «Новые форматы диалога» — язык корпоративной презентации XXI века, наложенный на встречи, о которых сам учебник двумя строками ниже пишет: грубость, безапелляционность, «стихийное отторжение». Диалог предполагает, что у сторон равные права на реплику. Здесь одна сторона высказывала «личные вкусы», которые «приобретали характер официальных оценок», а другая после этого лишалась работы и публикаций. Слово «формат» это различие аккуратно стирает.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p097-2
 target: [500, 398]
 tags: [euphemism, omission, framing]
@@ -23,7 +23,7 @@ verify: роль Хрущёва в репрессиях 1937—1938 гг. (Мо�
 Ответственность, таким образом, «возложена» (снова безличное) ровно на проигравших. Спросите: а те, кто в те же годы руководил партийными организациями Москвы и Украины и остался у власти, в списке почему не значатся?
 
 ~~~meta
-type: main
+kind: major
 id: ann-p097-3
 target: [450, 690]
 tags: [euphemism, false-cause, tc-passive-voice]
@@ -36,7 +36,7 @@ confidence: high
 [Семь кругов травли Бориса Пастернака // Arzamas](https://arzamas.academy/materials/389)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p097-4
 target: [400, 795]
 tags: [omission, euphemism]
@@ -47,7 +47,7 @@ confidence: high
 [Один день Ивана Денисовича // Полка](https://polka.academy/articles/514)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p097-5
 target: [400, 935]
 tags: [false-cause, framing]

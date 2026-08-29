@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p323-1
 target: [300, 120]
 tags: [contested-as-settled]
@@ -9,7 +9,7 @@ confidence: medium
 «Запад активно поддерживал внутренние конфликты на территории России» — какие конфликты и как именно поддерживал (Чечня? Кавказ в целом?), не сказано ни здесь, ни где-либо ещё в параграфе. Обвинение сформулировано как факт и оставлено без единого имени, документа или эпизода.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p323-2
 target: [400, 205]
 tags: [contested-as-settled]
@@ -20,7 +20,7 @@ confidence: high
 [NATO Expansion: What Gorbachev Heard — National Security Archive](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p323-3
 target: [400, 680]
 tags: [framing]
@@ -30,7 +30,7 @@ confidence: medium
 Врезка «Подведём итоги» повторяет тезисы основного текста, ничего не уточняя и не смягчая: «строили отношения с Россией с позиции силы», «не встретило отклика» — те же безадресные обвинения, вынесенные теперь в рамку с галочкой, как будто прошли дополнительную проверку.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p323-4
 target: [400, 1085]
 tags: [loaded-question]

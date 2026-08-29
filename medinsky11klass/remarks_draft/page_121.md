@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p121-1
 target: [450, 330]
 tags: [omission, context]
@@ -24,7 +24,7 @@ confidence: high
 [Население Литвы // Википедия](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9B%D0%B8%D1%82%D0%B2%D1%8B)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p121-2
 target: [400, 163]
 tags: [dubious-number, omission]
@@ -48,7 +48,7 @@ note: grep «1937» по корпусу — только печатные с. 62
 [Перепись населения СССР (1937) // Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D1%8C_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0_(1937))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p121-3
 target: [450, 420]
 tags: [context, omission]
@@ -66,7 +66,7 @@ confidence: high
 вдов и безотцовщины.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p121-4
 target: [450, 940]
 tags: [source-selection]

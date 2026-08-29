@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p017-1
 target: [150, 608]
 tags: [dubious-number, false-cause]
@@ -10,7 +10,7 @@ confidence: high
 [Сарыкамышское сражение: хронология, потери, факты — RT на русском](https://russian.rt.com/science/article/1420925-sarykamyshskoe-srazhenie-godovschina)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p017-2
 target: [150, 211]
 tags: [overclaim]
@@ -21,7 +21,7 @@ confidence: high
 [Сербская кампания Первой мировой войны — Википедия](https://ru.wikipedia.org/wiki/Сербская_кампания_Первой_мировой_войны)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p017-3
 target: [150, 1105]
 tags: [omission]
@@ -32,7 +32,7 @@ verify: "проверить §3 (Власть, экономика и общес�
 Причины «великого отступления» здесь сведены к «недостаткам снабжения» — за скобками остаётся весь скандал вокруг «снарядного голода» 1915 г.: отставка военного министра Сухомлинова, его судебный процесс, создание Особого совещания по обороне. Вероятно, об этом — в следующем параграфе.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p017-4
 target: [150, 143]
 tags: [omission]

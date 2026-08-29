@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p101-1
 target: [450, 442]
 tags: [omission, tc-victim-hero]
@@ -15,7 +15,7 @@ verify: «Мандельштам» и «Цветаева» встречаютс�
 [Мандельштам, Осип Эмильевич // Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%BC,_%D0%9E%D1%81%D0%B8%D0%BF_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87); [Гумилёв, Николай Степанович // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BC%D0%B8%D0%BB%D1%91%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87); [Цветаева, Марина Ивановна // Википедия](https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p101-2
 target: [450, 540]
 tags: [framing, false-cause, tc-usa-origin]
@@ -30,7 +30,7 @@ confidence: high
 [История публикации «Доктора Живаго» // Arzamas](https://arzamas.academy/mag/679-zhivago); [Один день Ивана Денисовича // Полка](https://polka.academy/articles/514); [Гадкие лебеди (повесть) // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8_%28%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C%29)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p101-3
 target: [450, 745]
 tags: [omission, loaded-question]
@@ -43,7 +43,7 @@ confidence: high
 [Клуб весёлых и находчивых // Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%83%D0%B1_%D0%B2%D0%B5%D1%81%D1%91%D0%BB%D1%8B%D1%85_%D0%B8_%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%87%D0%B8%D0%B2%D1%8B%D1%85)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p101-4
 target: [450, 892]
 tags: [omission]

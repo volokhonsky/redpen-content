@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p036-1
 target: [430, 235]
 tags: [false-symmetry, loaded-question, tc-whatabout]

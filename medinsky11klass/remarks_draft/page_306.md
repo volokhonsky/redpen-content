@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p306-1
 target: [300, 220]
 tags: [context]
@@ -10,7 +10,7 @@ confidence: high
 [Теракт в Будённовске](https://ru.wikipedia.org/wiki/Теракт_в_Будённовске)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p306-2
 target: [300, 380]
 tags: [context]
@@ -21,7 +21,7 @@ confidence: medium
 [Дудаев, Джохар Мусаевич](https://ru.wikipedia.org/wiki/Дудаев,_Джохар_Мусаевич)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p306-3
 target: [300, 630]
 tags: [false-cause, tc-usa-origin]
@@ -31,7 +31,7 @@ confidence: high
 «Это было выгодно Западу, поскольку вело к дальнейшему ослаблению России» — вывод, ни на чём не основанный: параграф не приводит ни цитаты западного политика, ни документа, ни исследования, которое связывало бы интересы условного Запада с властью чеченских полевых командиров. Дальше то же безымянное «выгодно» усиливается фразой о «широкой кампании» в западных СМИ — тоже без единого примера публикации или её автора. Оба предложения строят причинно-следственную связь там, где учебник не предъявил ни одного звена цепочки.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p306-4
 target: [750, 800]
 tags: [dubious-number, omission]
@@ -42,7 +42,7 @@ confidence: medium
 [Первая чеченская война](https://ru.wikipedia.org/wiki/Первая_чеченская_война)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p306-5
 target: [750, 1030]
 tags: [omission, dubious-number]

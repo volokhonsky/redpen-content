@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p255-1
 target: [300, 300]
 tags: [dubious-number]
@@ -11,7 +11,7 @@ note: дата первой декларации суверенитета (Эс�
 [Декларация о государственном суверенитете Эстонской ССР](https://ru.wikipedia.org/wiki/Декларация_о_государственном_суверенитете_Эстонской_ССР)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p255-2
 target: [300, 870]
 tags: [tc-annexation-euphemism]
@@ -23,7 +23,7 @@ note: механизм присоединения Прибалтики 1940 г. 
 [Присоединение Латвии к СССР](https://ru.wikipedia.org/wiki/Присоединение_Латвии_к_СССР)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p255-3
 target: [300, 990]
 tags: [contradiction]
@@ -34,7 +34,7 @@ confidence: medium
 [Акт восстановления государственности Литвы](https://ru.wikipedia.org/wiki/Акт_восстановления_государственности_Литвы)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p255-4
 target: [300, 700]
 tags: [framing]

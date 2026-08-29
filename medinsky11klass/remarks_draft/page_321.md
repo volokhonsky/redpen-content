@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p321-1
 target: [400, 215]
 tags: [false-cause]
@@ -9,7 +9,7 @@ confidence: medium
 «Подстрекаемый Западом» — дистанцирование Киева от Москвы объясняется внешним воздействием, а не собственной политикой украинских элит или настроениями избирателей. Собственная воля соседней страны как причина событий в параграфе не рассматривается.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p321-2
 target: [400, 495]
 tags: [double-standard]
@@ -20,7 +20,7 @@ confidence: medium
 [Драки, склоки, клоунада: как Россия выбрала самую скандальную Госдуму в истории](https://weekend.rambler.ru/read/51927814-eto-gvalt-i-bazar-draki-kriki-i-zhenskaya-grud-30-let-nazad-rossiya-vybrala-samuyu-skandalnuyu-gosdumu-v-istorii/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p321-3
 target: [400, 560]
 tags: [framing]
@@ -30,7 +30,7 @@ confidence: medium
 «Экономисты» и «неправительственные» — оба слова в кавычках, то есть отмечены как не то, чем называются: не настоящие экономисты, не настоящие НКО. Фонд Сороса назван единственным примером — и остаётся единственным, без единого факта о его конкретных действиях на Украине.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p321-4
 target: [400, 690]
 tags: [anachronism]
@@ -42,7 +42,7 @@ note: единственное вхождение фразы «анти-Росс
 [Проект «анти-Россия»: главные цитаты из статьи Путина — 5-tv.ru](https://m.5-tv.ru/news/350701/proekt-antirossia-glavnye-citaty-izstati-putina-pro-edinstvo-russkih-iukraincev/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p321-5
 target: [400, 280]
 tags: [contested-as-settled]

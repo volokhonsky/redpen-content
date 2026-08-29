@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p149-1
 target: [430, 472]
 tags: [omission, tc-import-as-cooperation]
@@ -10,7 +10,7 @@ confidence: high
 [Вятка-автомат // Википедия](https://ru.wikipedia.org/wiki/%D0%92%D1%8F%D1%82%D0%BA%D0%B0-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p149-2
 target: [430, 612]
 tags: [omission, framing]
@@ -22,7 +22,7 @@ note: grep по §12: «коррупц», «взятк», «блат» — 0 в�
 [Чиняков О. Е. Теневая экономика как составляющая хозяйственного механизма в советском обществе // Мир науки и образования. 2016](https://cyberleninka.ru/article/n/tenevaya-ekonomika-kak-sostavlyayuschaya-hozyaystvennogo-mehanizma-v-sovetskom-obschestve)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p149-3
 target: [700, 682]
 tags: [tc-passive-voice, omission]
@@ -34,7 +34,7 @@ note: дата расстрела Ю. Соколова в источниках �
 [Соколов, Юрий Константинович // Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p149-4
 target: [430, 900]
 tags: [omission, contradiction]
@@ -44,7 +44,7 @@ confidence: high
 «Повышение же цен на те или иные товары массового спроса… означало бы признание неспособности власти… обеспечить проведение в жизнь „принципов социализма“». Учебник объясняет замораживание цен исключительно идеологией — как будто власть боялась только за репутацию. Но в этой же книге, на с. 78, рассказано, что случилось, когда цены всё-таки подняли: в 1962 г. розничные цены на мясо выросли на 30 %, на масло — на 25 %, и в Новочеркасске «разгон демонстрации рабочих войсками привёл к жертвам». Настоящая причина, по которой цены не трогали двадцать лет, названа в учебнике — только в другом параграфе и другими словами.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p149-5
 target: [430, 1080]
 tags: [false-cause, euphemism]

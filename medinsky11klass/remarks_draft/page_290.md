@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p290-1
 target: [400, 1090]
 tags: [framing]
@@ -10,7 +10,7 @@ confidence: high
 [Примаков, Евгений Максимович // Википедия](https://ru.wikipedia.org/wiki/Примаков,_Евгений_Максимович)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p290-2
 target: [300, 800]
 tags: [context]
@@ -19,7 +19,7 @@ tags: [context]
 «„Виновным“ в дефолте… Ельцин назначил правительство С. Кириенко» — кавычки вокруг слова «виновным» показывают, что сам учебник сомневается в справедливости такого назначения ответственности; это редкий случай, когда параграф прямо намекает читателю не принимать официальную версию на веру.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p290-3
 target: [400, 645]
 tags: [framing, tc-nineties-as-foil]
@@ -30,7 +30,7 @@ confidence: high
 [Примаков, Евгений Максимович // Википедия](https://ru.wikipedia.org/wiki/Примаков,_Евгений_Максимович)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p290-4
 target: [330, 250]
 tags: [framing, tc-nineties-as-foil]

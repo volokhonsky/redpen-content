@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-page10-1
 target: [500, 650]
 ~~~
@@ -11,7 +11,7 @@ target: [500, 650]
 [Википедия: Немцы в Казахстане](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D1%86%D1%8B_%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B5)
 
 ~~~meta
-type: main
+kind: major
 id: ann-page10-2
 target: [500,800]
 ~~~

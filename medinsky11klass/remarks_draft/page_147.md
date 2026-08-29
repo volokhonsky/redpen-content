@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p147-1
 target: [430, 465]
 tags: [dubious-number, tc-official-stats]
@@ -10,7 +10,7 @@ confidence: high
 [Ханин Г. И. «Лукавая цифра»: 30 лет спустя // Идеи и идеалы. 2018. Т. 1, № 2](https://cyberleninka.ru/article/n/lukavaya-tsifra-30-let-spustya)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p147-2
 target: [300, 540]
 tags: [tc-passive-voice, contradiction]
@@ -21,7 +21,7 @@ note: grep по §12: слово «свёрнут» встречается то�
 «Однако уже в 1970-х гг. темпы промышленного роста замедлились». Замедлились сами по себе. Ни года, ни решения, ни фамилии. А теперь загляните на с. 151, вопрос 2: «Почему косыгинская реформа была свёрнута?» Оказывается, реформу свернули — но в самом параграфе этого не сказано ни разу, и школьнику предстоит объяснять событие, о котором учебник ему не сообщил.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p147-3
 target: [430, 600]
 tags: [false-cause]
@@ -31,7 +31,7 @@ confidence: high
 «Строительство заводов-гигантов приводило к их монопольному положению в отрасли, что в конечном счёте вело к низкому качеству продукции при отсутствии выбора у потребителя». Отсутствие выбора у потребителя — свойство не реформы, а плановой экономики: конкурирующих производителей в ней не было ни до 1965 г., ни после. Приём стоит запомнить: недостатки системы записываются в счёт попытки её улучшить.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p147-4
 target: [430, 705]
 tags: [euphemism, omission, tc-import-as-cooperation]
@@ -43,7 +43,7 @@ note: grep по §12 (text/page_145—154.json): «зерн», «хлеб», «�
 [Продовольственная программа СССР // Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p147-5
 target: [270, 940]
 tags: [euphemism, tc-import-as-cooperation]

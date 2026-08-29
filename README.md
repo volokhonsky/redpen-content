@@ -1,12 +1,12 @@
 # RedPen Content Repository
 
-This repository contains the content files for the RedPen project, including images, text data, and annotations extracted from PDF textbooks.
+This repository contains the content files for the RedPen project, including images, text data, and remarks extracted from PDF textbooks.
 
 ## Repository Structure
 
 - `images/`: Contains PNG images of textbook pages extracted from PDFs
 - `text/`: Contains JSON files with text data extracted from PDFs
-- `annotations/`: Contains JSON files with annotation data for each page
+- `remarks/`: Contains JSON files with remark data for each page
 
 ## Data Formats
 
@@ -25,14 +25,14 @@ This repository contains the content files for the RedPen project, including ima
   - Bounding box coordinates
   - Element IDs
 
-### Annotation JSON Files
+### Remark JSON Files
 
 - Format: JSON
 - Naming convention: `page_XXX.json` (where XXX is the page number with leading zeros)
-- Contains annotation data for each page, including:
-  - Annotation text
+- Contains remark data for each page, including:
+  - Remark text
   - Target text block ID
-  - Annotation type
+  - Remark type
   - Coordinates for display
 
 ## Workflow

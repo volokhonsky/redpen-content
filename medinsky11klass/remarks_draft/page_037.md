@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p037-1
 target: [400, 640]
 tags: [source-selection]

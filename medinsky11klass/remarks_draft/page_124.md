@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p124-1
 target: [450, 452]
 tags: [omission, false-cause]
@@ -21,7 +21,7 @@ note: сама формула «благодаря содействию СССР
 [Аптекарь П. Заморозка конфликта: как удалось завершить войну в Корее // HSE Daily, 27.07.2023](https://daily.hse.ru/post/zamorozka-konflikta-kak-udalos-zavershit-voynu-v-koree)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p124-2
 target: [450, 787]
 tags: [double-standard, omission, tc-one-sided-ledger]
@@ -44,7 +44,7 @@ note: grep по корпусу: «восстание в ГДР», «Берлин
 [Восстание в ГДР (1953) // Википедия](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%93%D0%94%D0%A0_%281953%29)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p124-3
 target: [450, 987]
 tags: [fact-error, framing]
@@ -63,7 +63,7 @@ confidence: high
 [Австрийский государственный договор // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D0%B9_%D0%B8_%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p124-4
 target: [600, 313]
 tags: [tc-agitprop-as-source, source-selection]
@@ -78,7 +78,7 @@ confidence: high
 свидетельства. Посчитайте по ходу параграфа, сколько раз повторится этот приём.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p124-5
 target: [640, 250]
 tags: [contradiction, framing]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p318-1
 target: [400, 215]
 tags: [overclaim]
@@ -10,7 +10,7 @@ confidence: high
 [Как разворот над Атлантикой вернул Россию на мировую арену — РИА Новости](https://ria.ru/20190323/1551983046.html)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p318-2
 target: [400, 350]
 tags: [omission]
@@ -21,7 +21,7 @@ confidence: high
 [Марш-бросок на Приштину — Википедия](https://ru.wikipedia.org/wiki/Марш-бросок_на_Приштину)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p318-3
 target: [400, 515]
 tags: [overclaim]
@@ -32,7 +32,7 @@ confidence: high
 [Эволюция позиции Запада в чеченском кризисе — «Независимая газета»](https://www.ng.ru/specfile/2000-02-29/15_evolution.html)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p318-4
 target: [400, 820]
 tags: [framing]

@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p204-1
 target: [700, 300]
 tags: [context, framing]

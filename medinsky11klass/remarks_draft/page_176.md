@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p176-1
 target: [430, 218]
 tags: [tc-task-without-material]
@@ -11,7 +11,7 @@ confidence: high
 Проверьте, из чего школьник может взять этот факт. В параграфе о диссидентах названы четыре имени в скобках, одна демонстрация, одна выставка, один альманах и одна фраза «был арестован, а затем осуждён». Ни срока, ни статьи, ни лагеря, ни ссылки, ни психиатрической больницы, ни высылки с лишением гражданства. Любой конкретизирующий факт, который сделает ответ убедительным, придётся искать вне учебника.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p176-2
 target: [400, 308]
 tags: [source-selection, tc-only-friendly-witnesses]
@@ -25,7 +25,7 @@ confidence: high
 Приём в учебнике повторяющийся: в § 11 единственным «мнением учёного» оказалось мнение автора апологетической книги о Брежневе, в § 12 единственным источником — постановление ЦК и Совмина, в § 13 — статья Конституции. Государство раз за разом выступает единственным свидетелем по собственному делу.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p176-3
 target: [430, 540]
 tags: [euphemism, omission]
@@ -43,7 +43,7 @@ confidence: high
 [Диссидентское движение в СССР // Википедия](https://ru.wikipedia.org/wiki/Диссидентское_движение_в_СССР)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p176-4
 target: [430, 683]
 tags: [omission]
@@ -57,7 +57,7 @@ confidence: medium
 Заодно вспомните, что говорилось на с. 165: одним из положений концепции «развитого социализма» было «окончательное решение национального вопроса».
 
 ~~~meta
-type: main
+kind: major
 id: ann-p176-5
 target: [430, 800]
 tags: [omission, tc-censorship-unnamed]
@@ -73,7 +73,7 @@ confidence: high
 [Указ ПВС от 25 декабря 1972 г. // Вести из СССР](https://vesti-iz-sssr.com/2016/12/11/ukaz-pvs-ot-25-dekabrya-1972-g/)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p176-6
 target: [430, 950]
 tags: [loaded-question, tc-only-friendly-witnesses]

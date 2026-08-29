@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p007-1
 target: [500, 915]
 tags: [euphemism, omission]
@@ -11,7 +11,7 @@ note: цифры ПФЛ (375 659 прошедших, ~62% в армию, ~3% а�
 [Проверочно-фильтрационные лагеря НКВД СССР // Википедия](https://ru.wikipedia.org/wiki/Проверочно-фильтрационные_лагеря_НКВД_СССР)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p007-t1
 target: [700, 395]
 tags: [context, omission]
@@ -23,7 +23,7 @@ note: триаж 2026-08-23, п. 1-8; координаты требуют про
 [Твердюкова Е. Д. Вестернизация потребительских ценностей в СССР в первые послевоенные годы (1945—1949) // Петербургский исторический журнал. 2023. № 1 (37)](https://cyberleninka.ru/article/n/vesternizatsiya-potrebitelskih-tsennostey-v-sssr-v-pervye-poslevoennye-gody-1945-1949)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p007-t2
 target: [250, 572]
 tags: [omission, context]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p122-1
 target: [450, 658]
 tags: [false-cause, overclaim, omission]
@@ -23,7 +23,7 @@ confidence: high
 [Встреча Кеннеди и Хрущёва в Вене // Википедия](https://ru.wikipedia.org/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8_%D0%B8_%D0%A5%D1%80%D1%83%D1%89%D1%91%D0%B2%D0%B0_%D0%B2_%D0%92%D0%B5%D0%BD%D0%B5)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p122-2
 target: [250, 933]
 tags: [tc-passive-voice, euphemism]
@@ -38,7 +38,7 @@ confidence: high
 рассказать о действии, не называя действующего.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p122-3
 target: [370, 983]
 tags: [contradiction, framing]
@@ -53,7 +53,7 @@ confidence: high
 срыв договорённости превращён в достижение. Прочитайте обе страницы подряд.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p122-4
 target: [690, 885]
 tags: [euphemism, framing, double-standard]
@@ -69,7 +69,7 @@ confidence: high
 Берлинский кризис» — там участие СССР под сомнение не ставится.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p122-5
 target: [280, 815]
 tags: [source-selection, contradiction, tc-cheerful-summary]

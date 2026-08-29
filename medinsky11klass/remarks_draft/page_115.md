@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p115-1
 target: [500, 578]
 tags: [false-cause, euphemism, contradiction]
@@ -17,7 +17,7 @@ note: перекрёстная ссылка на печатную с. 73 — т�
 строили в другом месте. Почему учебник не соединяет эти две страницы?
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p115-2
 target: [300, 322]
 tags: [framing, omission]
@@ -33,7 +33,7 @@ confidence: high
 но описывает, к его чести, довольно точно.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p115-3
 target: [450, 760]
 tags: [omission, framing]
@@ -49,7 +49,7 @@ note: замечание об умолчании внутри одной фра�
 превращено в почтовый адрес.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p115-4
 target: [450, 980]
 tags: [omission, framing, overclaim, tc-censorship-unnamed]
@@ -73,7 +73,7 @@ verify: атрибуция формулы «самая читающая стра
 [Главное управление по делам литературы и издательств // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B_%D0%B8_%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p115-5
 target: [500, 1088]
 tags: [tc-official-stats, omission]

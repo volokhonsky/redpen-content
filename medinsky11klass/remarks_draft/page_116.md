@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p116-1
 target: [700, 372]
 tags: [omission, framing, euphemism, tc-censorship-unnamed]
@@ -21,7 +21,7 @@ note: grep по корпусу: «цензур» встречается толь
 [Главное управление по делам литературы и издательств // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B_%D0%B8_%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p116-2
 target: [450, 745]
 tags: [euphemism, omission, tc-permission-as-abundance]
@@ -44,7 +44,7 @@ confidence: high
 в 1949—1962 гг. // Петербургский исторический журнал. 2017](https://cyberleninka.ru/article/n/razreshen-vyezd-deyatelnost-komissii-po-vyezdam-za-granitsu-v-1949-1962-gg)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p116-3
 target: [400, 565]
 tags: [omission, context, tc-censorship-unnamed]
@@ -60,7 +60,7 @@ confidence: high
 [Главное управление по делам литературы и издательств // Википедия](https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B_%D0%B8_%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p116-4
 target: [690, 1015]
 tags: [context, omission, tc-permission-as-abundance]
@@ -81,7 +81,7 @@ confidence: high
 11.01.2017](https://www.ng.ru/science/2017-01-11/9_6899_mrak.html)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p116-5
 target: [450, 632]
 tags: [loaded-question, tc-censorship-unnamed]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p303-1
 target: [300, 965]
 tags: [omission, tc-nineties-as-foil]
@@ -10,7 +10,7 @@ confidence: high
 [Осетино-ингушский конфликт](https://ru.wikipedia.org/wiki/Осетино-ингушский_конфликт)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p303-2
 target: [755, 715]
 tags: [omission, tc-nineties-as-foil]
@@ -21,7 +21,7 @@ confidence: medium
 [Штурм Грозного (1994—1995)](https://ru.wikipedia.org/wiki/Штурм_Грозного_(1994%E2%80%941995))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p303-3
 target: [390, 500]
 tags: [context]
@@ -31,7 +31,7 @@ confidence: high
 На фотографии 1992 года Ельцин пожимает руки Хасбулатову и Зорькину — годом позже эти двое станут его противниками в конституционном кризисе (см. §25), а Верховный Совет, который возглавлял Хасбулатов, Ельцин распустит силой. Полезно удержать этот контраст в голове, читая параграф о федерализме: подписи под общими фотографиями редко переживают год.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p303-4
 target: [250, 875]
 tags: [framing]

@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p283-1
 target: [400, 780]
 tags: [context]
@@ -9,7 +9,7 @@ tags: [context]
 [Взять чек на душу. Кто смог разбогатеть на ваучерах? // АиФ](https://aif.ru/money/economy/vzyat_chek_na_dushu_kto_smog_razbogatet_na_vaucherah)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p283-2
 target: [400, 550]
 tags: [euphemism]

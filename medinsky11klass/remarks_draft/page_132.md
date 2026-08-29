@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p132-1
 target: [450, 168]
 tags: [overclaim, contradiction]
@@ -16,7 +16,7 @@ confidence: high
 устроена как лозунг, а не как знание, которое можно проверить.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p132-3
 target: [500, 240]
 tags: [loaded-question]
@@ -30,7 +30,7 @@ confidence: high
 Обратите внимание, что ящика «интересы самих колоний» среди них нет.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p132-2
 target: [450, 490]
 tags: [tc-usa-origin, framing, omission]
@@ -48,7 +48,7 @@ confidence: high
 последнее слово.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p132-5
 target: [500, 800]
 tags: [loaded-question, false-cause]
@@ -65,7 +65,7 @@ confidence: high
 Кубе. Вопрос закрепляет причинную связь, которой, скорее всего, не было.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p132-4
 target: [450, 900]
 tags: [framing]

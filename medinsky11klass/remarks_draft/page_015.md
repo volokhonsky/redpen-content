@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p015-1
 target: [500, 520]
 tags: [omission, euphemism]
@@ -11,7 +11,7 @@ note: труд заключённых в атомном проекте (уран
 [История создания ядерного ГУЛАГа // Историк](https://historicus.ru/gulag/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p015-2
 target: [500, 390]
 tags: [false-cause, framing]
@@ -21,7 +21,7 @@ confidence: medium
 Гонку вооружений учебник объясняет исключительно внешней угрозой: США «разработали планы нанесения по СССР сначала 20, а затем 50 и более атомных ударов». Военные планы у сторон холодной войны действительно были — с обеих сторон. Но обратите внимание на приём: причина собственного форсированного перевооружения и атомного проекта целиком вынесена вовне, к чужим намерениям, а внутренний выбор советского руководства (приоритет военных расходов над уровнем жизни разорённой страны) выводится за скобки. Полезный вопрос к любой такой фразе: о чьих решениях здесь умалчивают?
 
 ~~~meta
-type: main
+kind: major
 id: ann-p015-3
 target: [500, 690]
 tags: [omission, tc-hidden-disasters]
@@ -33,7 +33,7 @@ note: 468 испытаний в 1949—1989, свыше 1,3 млн официа�
 [Семипалатинский испытательный полигон // Википедия](https://ru.wikipedia.org/wiki/Семипалатинский_испытательный_полигон)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p015-4
 target: [350, 875]
 tags: [double-standard, euphemism]
@@ -45,7 +45,7 @@ note: Розенберги казнены 19.06.1953 за передачу ат�
 [Дело Розенбергов // Википедия](https://ru.wikipedia.org/wiki/Дело_Розенбергов)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p015-5
 target: [300, 990]
 tags: [source-selection, context, tc-agitprop-as-source]
@@ -57,7 +57,7 @@ note: судьба Кольцова (арест 1938, расстрел 1940) и 
 [Ефимов, Борис Ефимович // Википедия](https://ru.wikipedia.org/wiki/Ефимов,_Борис_Ефимович)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p015-t1
 target: [780, 415]
 tags: [omission, tc-usa-origin, double-standard]

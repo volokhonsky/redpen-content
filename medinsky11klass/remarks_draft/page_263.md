@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p263-1
 target: [300, 140]
 tags: [omission, contradiction]
@@ -11,7 +11,7 @@ note: имена и обстоятельства сверены по ru.wikipedi
 [Инцидент в тоннеле на Садовом кольце (1991)](https://ru.wikipedia.org/wiki/Инцидент_в_тоннеле_на_Садовом_кольце_(1991))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p263-2
 target: [550, 170]
 tags: [tc-strangeness-as-explanation]
@@ -20,7 +20,7 @@ tags: [tc-strangeness-as-explanation]
 «Странный путч... так же странно и закончился» — слово «странно» использовано дважды в одном предложении вместо объяснения. Вместе с «странным... самоотделением» России от самой себя парой страниц раньше (с. 257) это уже второй случай, когда недоумение автора занимает место анализа причин.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p263-3
 target: [300, 500]
 tags: [framing]

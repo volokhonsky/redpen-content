@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p120-1
 target: [450, 157]
 tags: [loaded-question, framing, omission, tc-permission-as-abundance]
@@ -20,7 +20,7 @@ note: паспорта колхозникам — учебник упомина�
 половинами.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p120-2
 target: [450, 235]
 tags: [context]
@@ -36,7 +36,7 @@ confidence: high
 что написано на с. 106—119.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p120-3
 target: [450, 345]
 tags: [contradiction, loaded-question, tc-censorship-unnamed]
@@ -53,7 +53,7 @@ confidence: high
 хотя это происходило.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p120-4
 target: [450, 900]
 tags: [source-selection, omission, tc-cheerful-summary]

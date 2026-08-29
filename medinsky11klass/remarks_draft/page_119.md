@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p119-1
 target: [450, 898]
 tags: [omission, framing, tc-cheerful-summary]
@@ -19,7 +19,7 @@ verify: происхождение термина «революция благ�
 с. 106—118.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p119-2
 target: [450, 765]
 tags: [loaded-question]
@@ -34,7 +34,7 @@ confidence: high
 и «мы грустим, седину замечая».
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p119-3
 target: [640, 480]
 tags: [context, omission]
@@ -49,7 +49,7 @@ confidence: high
 приведён двумя страницами дальше, в документе о переписи 1959 г.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p119-4
 target: [400, 187]
 tags: [source-selection]

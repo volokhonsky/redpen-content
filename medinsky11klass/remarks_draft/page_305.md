@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p305-1
 target: [300, 795]
 tags: [omission, euphemism]
@@ -10,7 +10,7 @@ confidence: high
 [Ноябрьский штурм Грозного (1994)](https://www.kavkaz-uzel.eu/articles/253148)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p305-2
 target: [300, 940]
 tags: [dubious-number, omission]
@@ -21,7 +21,7 @@ confidence: medium
 [Штурм Грозного (1994—1995)](https://ru.wikipedia.org/wiki/Штурм_Грозного_(1994%E2%80%941995))
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p305-3
 target: [300, 685]
 tags: [framing, tc-single-source-conflict]
@@ -31,7 +31,7 @@ confidence: medium
 «Смотрели сквозь пальцы» — оценка, а не факт: параграф не приводит ни одного заявления или документа с чеченской стороны о происходящем, только характеристики федерального центра. За пять страниц параграфа у противной стороны нет собственного голоса — только ярлыки, которые ей достаются.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p305-4
 target: [300, 405]
 tags: [omission]

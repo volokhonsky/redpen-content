@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p090-1
 target: [250, 150]
 tags: [source-selection, tc-agitprop-as-source]

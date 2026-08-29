@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-page5-1
 target: [450, 430]
 ~~~

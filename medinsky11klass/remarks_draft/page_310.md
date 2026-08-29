@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p310-1
 target: [650, 220]
 tags: [contradiction, framing]
@@ -9,7 +9,7 @@ confidence: high
 Подпись сама признаёт: комплекс «Синяя птица» «носил характер нетиповой застройки по индивидуальному проекту и не тиражировался впоследствии» — то есть перед школьником исключение, а не образец. При этом рядом стоит вопрос «Как изменился внешний облик жилых домов...», предлагающий сделать по нетипичному снимку общий вывод об эпохе. Комфортное новое жильё, о котором пишет следующий абзац, было по карману немногим.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p310-2
 target: [500, 605]
 tags: [omission]
@@ -20,7 +20,7 @@ confidence: high
 [Крышевание // Википедия](https://ru.wikipedia.org/wiki/Крышевание)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p310-3
 target: [400, 665]
 tags: [context]
@@ -31,7 +31,7 @@ confidence: high
 [Производство и потребление продуктов питания в РФ // Исторические Материалы](https://istmat.org/node/511)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p310-4
 target: [650, 1090]
 tags: [framing, tc-blame-the-consumer]
@@ -42,7 +42,7 @@ confidence: high
 [Лёня Голубков // Википедия](https://ru.wikipedia.org/wiki/Лёня_Голубков); [Федеральный закон от 22.04.1996 № 39-ФЗ «О рынке ценных бумаг» // Президент России](http://www.kremlin.ru/acts/bank/9249)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p310-5
 target: [300, 460]
 tags: [contradiction, omission]

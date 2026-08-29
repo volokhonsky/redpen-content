@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p128-1
 target: [700, 350]
 tags: [dubious-number, omission, source-selection]
@@ -20,7 +20,7 @@ confidence: high
 [Берлинская стена // Википедия](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B5%D0%BD%D0%B0)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p128-2
 target: [400, 582]
 tags: [omission, contradiction]
@@ -36,7 +36,7 @@ confidence: high
 советской политики на десятилетия вперёд».
 
 ~~~meta
-type: main
+kind: major
 id: ann-p128-3
 target: [450, 690]
 tags: [framing, omission]
@@ -57,7 +57,7 @@ confidence: high
 [Царь-бомба // Википедия](https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%8C-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p128-4
 target: [500, 848]
 tags: [context, omission]
@@ -75,7 +75,7 @@ confidence: high
 [Карибский кризис // Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p128-5
 target: [400, 942]
 tags: [false-cause, omission, tc-one-sided-ledger]

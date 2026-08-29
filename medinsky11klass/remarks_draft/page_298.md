@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p298-1
 target: [340, 334]
 tags: [fact-error, omission]
@@ -11,7 +11,7 @@ note: даты указов и решение КС от 30.11.1992 сверен�
 [Дело КПСС — Википедия](https://ru.wikipedia.org/wiki/Дело_КПСС)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p298-2
 target: [615, 598]
 tags: [dubious-number]
@@ -21,7 +21,7 @@ confidence: medium
 «Большинство населения страны стало скептически относиться к либеральным идеям» — утверждение о взглядах десятков миллионов человек подано без единой ссылки на опрос или исследование.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p298-3
 target: [186, 830]
 tags: [omission]
@@ -33,7 +33,7 @@ note: результаты выборов 1995 сверены по Википе�
 [Наш дом — Россия — Википедия](https://ru.wikipedia.org/wiki/Наш_дом_—_Россия)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p298-4
 target: [372, 939]
 tags: [context]

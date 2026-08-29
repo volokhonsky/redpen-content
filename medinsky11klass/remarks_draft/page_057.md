@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p057-1
 target: [300, 1045]
 tags: [framing]

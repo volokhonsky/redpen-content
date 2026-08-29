@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p133-3
 target: [450, 178]
 tags: [contradiction, framing]
@@ -14,7 +14,7 @@ confidence: high
 одним абзацем. Сначала ответ, потом дискуссия.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p133-2
 target: [400, 445]
 tags: [tc-cheerful-summary, euphemism]
@@ -30,7 +30,7 @@ confidence: high
 вместо восстания и его подавления — та же формула, что и в ленте времени на с. 122.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p133-1
 target: [450, 590]
 tags: [source-selection, context]
@@ -51,7 +51,7 @@ Little, Brown выпустили книгу «Khrushchev Remembers» — изд�
 [Nikita Khrushchev's Memoirs, Part I // The Text Message, National Archives](https://text-message.blogs.archives.gov/2017/01/31/nikita-khrushchevs-memoirs-part-i/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p133-5
 target: [500, 930]
 tags: [loaded-question, source-selection]
@@ -66,7 +66,7 @@ confidence: high
 кстати, отвечают и на эти вопросы — просто в учебник попал другой фрагмент.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p133-4
 target: [400, 1140]
 tags: [source-selection, context]

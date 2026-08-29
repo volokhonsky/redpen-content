@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p203-1
 target: [560, 585]
 tags: [anachronism, framing, tc-modern-grudge]

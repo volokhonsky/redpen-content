@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p059-1
 target: [250, 660]
 tags: [omission]
@@ -11,7 +11,7 @@ note: захоронение Сталина в 1961 подтверждено п�
 [«Толпа напирала, слышались крики и вой». Похороны Сталина // Lenta.ru. 6 марта 2023](https://lenta.ru/articles/2023/03/06/davka/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p059-2
 target: [200, 900]
 tags: [omission, source-selection]

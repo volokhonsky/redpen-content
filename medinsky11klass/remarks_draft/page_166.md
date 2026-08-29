@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p166-1
 target: [420, 160]
 tags: [false-cause, tc-blame-the-consumer]
@@ -11,7 +11,7 @@ confidence: high
 В этой формуле нет ни цензуры, ни политических статей Уголовного кодекса, ни танков в Праге. Причина инакомыслия — свойства самих недовольных («притязания»), а не то, на что они жаловались. Приём в учебнике сквозной: в § 12 экономические трудности объяснялись «иждивенческими настроениями» колхозников и «стремительно растущими запросами населения».
 
 ~~~meta
-type: main
+kind: major
 id: ann-p166-2
 target: [420, 245]
 tags: [omission, tc-censorship-unnamed]
@@ -29,7 +29,7 @@ note: grep по всему корпусу text/*.json: «Сахаров» — т
 [Сахаров, Андрей Дмитриевич // Википедия](https://ru.wikipedia.org/wiki/Сахаров,_Андрей_Дмитриевич)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p166-3
 target: [420, 485]
 tags: [omission, tc-thaw-no-ending]
@@ -45,7 +45,7 @@ confidence: high
 [Дело Синявского и Даниэля // Википедия](https://ru.wikipedia.org/wiki/Дело_Синявского_и_Даниэля)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p166-4
 target: [430, 615]
 tags: [omission, tc-censorship-unnamed, tc-victim-hero]
@@ -63,7 +63,7 @@ note: grep по всему корпусу: «психиатр» — 0 вхожд
 [Горбаневская, Наталья Евгеньевна // Википедия](https://ru.wikipedia.org/wiki/Горбаневская,_Наталья_Евгеньевна) · [Плющ, Леонид Иванович // Википедия](https://ru.wikipedia.org/wiki/Плющ,_Леонид_Иванович)
 
 ~~~meta
-type: main
+kind: major
 id: ann-p166-5
 target: [430, 755]
 tags: [euphemism, double-standard]
@@ -79,7 +79,7 @@ confidence: high
 [Орлов, Юрий Фёдорович // Википедия](https://ru.wikipedia.org/wiki/Орлов,_Юрий_Фёдорович)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p166-6
 target: [430, 905]
 tags: [false-cause, tc-usa-origin]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p288-1
 target: [350, 110]
 tags: [omission]
@@ -11,7 +11,7 @@ note: точное число пострадавших по МММ разнит�
 [Куда исчезли деньги «МММ» // КП.RU](https://www.kp.ru/daily/26272.3/3148966/)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p288-2
 target: [350, 660]
 tags: [dubious-number]
@@ -20,7 +20,7 @@ tags: [dubious-number]
 «По мнению ряда экономистов, это была крупная финансовая афера» — источник мнения не назван: неясно, о каких именно экономистах речь и на чьих расчётах основана такая оценка.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p288-3
 target: [400, 840]
 tags: [framing]

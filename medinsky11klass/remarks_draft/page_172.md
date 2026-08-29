@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p172-1
 target: [430, 290]
 tags: [euphemism, tc-censorship-unnamed, tc-despite-not-because]
@@ -13,7 +13,7 @@ confidence: high
 И снова ни одного названия: какие именно фильмы, какие именно купюры, кто их вырезал. «Интеллектуальное (авторское) кино» стоит в списке ключевых понятий параграфа — вот и всё его содержание.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p172-2
 target: [430, 592]
 tags: [omission, tc-victim-hero, tc-key-concept-unexplained]
@@ -31,7 +31,7 @@ note: grep по всему корпусу text/*.json: «Высоцк» — ед
 [Высоцкий, Владимир Семёнович // Википедия](https://ru.wikipedia.org/wiki/Высоцкий,_Владимир_Семёнович)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p172-3
 target: [430, 700]
 tags: [framing, tc-record-not-result, tc-anonymous-superlative]
@@ -43,7 +43,7 @@ confidence: high
 Кавычки без автора — приём, который в этом учебнике встречается постоянно: оценка подаётся как всем известная формула, за которую никто конкретно не отвечает. Дальше на трёх страницах пойдёт перечень рекордов, медалей и превосходных степеней — и ни одного слова о том, как этот спорт был устроен: о спортшколах-интернатах, о том, что советские спортсмены формально считались любителями, о медицинском обеспечении сборных. «Благодаря чему в СССР стали возможны высшие спортивные достижения?» — спросят на с. 174. Ответ в тексте будет один: «благодаря развитию массового спорта».
 
 ~~~meta
-type: main
+kind: major
 id: ann-p172-4
 target: [430, 785]
 tags: [omission, tc-one-sided-ledger]
@@ -59,7 +59,7 @@ confidence: high
 [Финал баскетбольного турнира Олимпийских игр 1972 // Википедия](https://ru.wikipedia.org/wiki/Финал_баскетбольного_турнира_Олимпийских_игр_1972)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p172-5
 target: [700, 1090]
 tags: [overclaim, anachronism, tc-anonymous-superlative]

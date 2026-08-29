@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p131-4
 target: [450, 295]
 tags: [loaded-question, tc-destalinization-blamed]
@@ -14,7 +14,7 @@ confidence: high
 прежних преступлений — а не сами преступления и не решения, принятые после.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p131-3
 target: [450, 440]
 tags: [framing]
@@ -30,7 +30,7 @@ confidence: high
 колониальной системы?»
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p131-5
 target: [450, 645]
 tags: [contradiction]
@@ -46,7 +46,7 @@ confidence: high
 которые «тянулись к СССР». Попробуйте удержать оба утверждения одновременно.
 
 ~~~meta
-type: main
+kind: major
 id: ann-p131-1
 target: [350, 880]
 tags: [tc-passive-voice, omission]
@@ -65,7 +65,7 @@ note: контраст внутренний: с. 77 учебника — «Кр�
 на одном развороте.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p131-2
 target: [380, 1090]
 tags: [tc-agitprop-as-source, source-selection]

@@ -1,5 +1,5 @@
 ~~~meta
-type: main
+kind: major
 id: ann-p014-1
 target: [135, 940]
 tags: [source-selection]
@@ -10,7 +10,7 @@ confidence: high
 [Ольденбург, Сергей Сергеевич — Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p014-2
 target: [175, 260]
 tags: [context]
@@ -21,7 +21,7 @@ confidence: medium
 [Планы русской десантной операции на Босфоре — Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D0%BE%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%91%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%B5)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p014-3
 target: [135, 1080]
 tags: [context]
@@ -30,7 +30,7 @@ tags: [context]
 «Тихий Дон» рекомендован как чтение к параграфу о 1914 годе, хотя роман Шолохова — прежде всего о донском казачестве в революции и Гражданской войне; Первая мировая в нём — только пролог первых двух книг.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p014-4
 target: [220, 633]
 tags: [context]

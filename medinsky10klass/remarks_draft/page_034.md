@@ -1,5 +1,5 @@
 ~~~meta
-type: comment
+kind: minor
 id: ann-p034-1
 target: [100, 235]
 tags: [context]
@@ -11,7 +11,7 @@ note: сверено с текстом статьи Ленина "О пораж�
 [О поражении своего правительства в империалистской войне — В. И. Ленин](https://leninism.su/works/65-tom-26/2122-o-porazhenii-svoego-pravitelstva-v-imperialistskoj-vojne.html)
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p034-2
 target: [100, 500]
 tags: [framing]
@@ -21,7 +21,7 @@ confidence: low
 «Решение Николая II оказать поддержку Сербии» — вопрос 3 сводит вступление России в мировую войну к одному благородному жесту в адрес союзника. Мобилизационная спираль союзных обязательств, объявления войны Германией и Австро-Венгрией здесь не упомянута вовсе — хотя это ровно то, чему посвящён предыдущий параграф.
 
 ~~~meta
-type: comment
+kind: minor
 id: ann-p034-3
 target: [100, 1000]
 tags: [source-selection]
